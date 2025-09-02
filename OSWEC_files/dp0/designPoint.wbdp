@@ -33,7 +33,7 @@
       <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
       <deleted-sources valType="String">[]</deleted-sources>
       <last-updated valType="Int64">2006</last-updated>
-      <last-modified-by-usage valType="String">{"Extrinsic": 2011, "Input": 2004, "Output": 2004}</last-modified-by-usage>
+      <last-modified-by-usage valType="String">{"Extrinsic": 2068, "Input": 2004, "Output": 2004}</last-modified-by-usage>
       <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
       <unique-system-dir valType="String">AQW</unique-system-dir>
       <contains-significant-data valType="Boolean">true</contains-significant-data>
@@ -45,34 +45,35 @@
       <Object Name="/Geometry/Geometry:GeometryDataObject" Version="1.0">
         <class-type valType="String">Geometry</class-type>
         <object-name valType="String">GeometryDataObject</object-name>
-        <member-data valType="String">{"DisplayText": "GeometryDataObject", "_geometryFileRelativePath": r"dp0\AQW\DM\AQW.agdb", "_geometryTeamcenterConnection": None, "_geometryPlugInName": "", "GeomFileReference": $$f45560c1-9a6d-4554-9fb5-5a0c539295de, "GeometryImportSolidBodies": True, "GeometryImportSurfaceBodies": True, "GeometryImportLineBodies": True, "GeometryImportParameters": "CADImportParameterType_Independent", "GeometryImportParametersFilter": "", "GeometryImportCadAttributes": True, "GeometryImportCadAttributesFilter": "", "GeometryImportNamedSelections": True, "GeometryImportNamedSelectionsFilter": "", "GeometryImportMaterialProperties": True, "GeometryImportAnalysisType": "AnalysisType_3D", "GeometryImportCadAssociativity": True, "GeometryImportCoordinateSystems": True, "GeometryImportCoordinateSystemsFilter": "", "GeometryImportWorkPoints": True, "GeometryImportSavePartFile": False, "GeometryImportImportUsingInstances": True, "GeometryImportSmartUpdate": True, "GeometryImportPhysicsDefinition": False, "GeometryImportComparePartsOnUpdate": "ComparePartsMethod_None", "GeometryImportComparePartsTolerance": "ComparePartsTolerance_Tight", "GeometryImportProcessEnclosures": True, "GeometryImportDecomposeDisjointFaces": True, "GeometryImportMixedResolutionOption": "MixedImport_None", "GeometryImportWeightclass": "ImportWeightclass_Heavyweight", "GeometryImportFacetQuality": "PlugInFacetQuality_Source", "GeometryImportFlattenAssembly": True, "GeometryImportCleanGeometryOnImport": False, "GeometryImportStitchSurfacesOnImport": "StitchPreference_None", "GeometryImportStitchTolerance": 1E-07, "GeometryImportSpaceClaimExplodeUnsharedComponents": True, "Guid": "c97fe698-659a-4d58-97d9-a881d03fdf90", "ObjectState": 0, "UpstreamConnections": {}, "ImportedFeatures": {}, "IsSpaceClaimGeometry": False, "IsDiscoveryGeometry": False, "IsDiscoveryModeEnabled": False, "_isModelerModeEnabled": False, "AreParametersOutOfDate": False, "RegisteredExternalFilesInfo": {"$$f45560c1-9a6d-4554-9fb5-5a0c539295de": {"FilePathInDM": r"C:\Users\Shakti\AppData\Local\Temp\WB_Shakti_182516_2\wbnew_files\dp0\AQW\DM\AQW.agdb", "FilePathAfterRepair": r"C:\Users\Shakti\AppData\Local\Temp\WB_Shakti_182516_2\wbnew_files\dp0\AQW\DM\AQW.agdb", "IsFileRepaired": False, "CadSourceType": "DesignModeler"}, "$$5650eff1-3db5-4363-b71b-d29872f4c8e1": {"FilePathInDM": r"E:\Users\Shakti\Desktop\Ansys\OSWEC\flap_ex.scdocx", "FilePathAfterRepair": r"E:\Users\Shakti\Desktop\Ansys\OSWEC\flap_ex.scdocx", "IsFileRepaired": False, "CadSourceType": "SpaceClaim"}}, "AreParametersMigratedFromLegacyDatabaseImport": False}</member-data>
+        <member-data valType="String">{"DisplayText": "GeometryDataObject", "_geometryFileRelativePath": r"dp0\AQW\DM\AQW.agdb", "_geometryTeamcenterConnection": None, "_geometryPlugInName": "", "GeomFileReference": $$f45560c1-9a6d-4554-9fb5-5a0c539295de, "GeometryImportSolidBodies": True, "GeometryImportSurfaceBodies": True, "GeometryImportLineBodies": True, "GeometryImportParameters": "CADImportParameterType_Independent", "GeometryImportParametersFilter": "", "GeometryImportCadAttributes": True, "GeometryImportCadAttributesFilter": "", "GeometryImportNamedSelections": True, "GeometryImportNamedSelectionsFilter": "", "GeometryImportMaterialProperties": True, "GeometryImportAnalysisType": "AnalysisType_3D", "GeometryImportCadAssociativity": True, "GeometryImportCoordinateSystems": True, "GeometryImportCoordinateSystemsFilter": "", "GeometryImportWorkPoints": True, "GeometryImportSavePartFile": False, "GeometryImportImportUsingInstances": True, "GeometryImportSmartUpdate": True, "GeometryImportPhysicsDefinition": False, "GeometryImportComparePartsOnUpdate": "ComparePartsMethod_None", "GeometryImportComparePartsTolerance": "ComparePartsTolerance_Tight", "GeometryImportProcessEnclosures": True, "GeometryImportDecomposeDisjointFaces": True, "GeometryImportMixedResolutionOption": "MixedImport_None", "GeometryImportWeightclass": "ImportWeightclass_Heavyweight", "GeometryImportFacetQuality": "PlugInFacetQuality_Source", "GeometryImportFlattenAssembly": True, "GeometryImportCleanGeometryOnImport": False, "GeometryImportStitchSurfacesOnImport": "StitchPreference_None", "GeometryImportStitchTolerance": 1E-07, "GeometryImportSpaceClaimExplodeUnsharedComponents": True, "Guid": "c97fe698-659a-4d58-97d9-a881d03fdf90", "ObjectState": 0, "UpstreamConnections": {}, "ImportedFeatures": {}, "IsSpaceClaimGeometry": False, "IsDiscoveryGeometry": False, "IsDiscoveryModeEnabled": False, "_isModelerModeEnabled": False, "AreParametersOutOfDate": False, "RegisteredExternalFilesInfo": {"$$f45560c1-9a6d-4554-9fb5-5a0c539295de": {"FilePathInDM": r"E:\Users\Shakti\Desktop\Ansys\OSWEC\OSWEC_files\dp0\AQW\DM\AQW.agdb", "FilePathAfterRepair": r"E:\Users\Shakti\Desktop\Ansys\OSWEC\OSWEC_files\dp0\AQW\DM\AQW.agdb", "IsFileRepaired": False, "CadSourceType": "DesignModeler"}, "$$5650eff1-3db5-4363-b71b-d29872f4c8e1": {"FilePathInDM": r"E:\Users\Shakti\Desktop\Ansys\OSWEC\flap_ex.scdocx", "FilePathAfterRepair": r"E:\Users\Shakti\Desktop\Ansys\OSWEC\flap_ex.scdocx", "IsFileRepaired": False, "CadSourceType": "SpaceClaim"}}, "AreParametersMigratedFromLegacyDatabaseImport": False}</member-data>
         <properties-setByUserFlag-data valType="String">["ObjectState"]</properties-setByUserFlag-data>
       </Object>
       <Object Name="/Geometry/TransferData:Geometry" Version="1.0">
         <class-type valType="String">TransferData</class-type>
         <object-name valType="String">Geometry</object-name>
-        <member-data valType="String">{"DisplayText": "Geometry", "ConnectionKeys": ["a7efc892-39b5-4bbf-8d96-2848f0a61d78"], "Data": None}</member-data>
+        <member-data valType="String">{"DisplayText": "Geometry", "ConnectionKeys": ["a7efc892-39b5-4bbf-8d96-2848f0a61d78"], "Data": $$ae11dfd8-7980-4f6d-b3eb-5b46dee23adc}</member-data>
       </Object>
     </Container>
     <Container Name="Model" Version="1.0">
       <container-type valType="String">Ansys.AQWA.CoreAddin:AqwaModel</container-type>
       <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
       <deleted-sources valType="String">[]</deleted-sources>
-      <last-updated valType="Int64">0</last-updated>
-      <last-modified-by-usage valType="String">{"Extrinsic": 1957, "Input": 1917, "Output": 1912}</last-modified-by-usage>
+      <last-updated valType="Int64">2047</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 2050, "Input": 2045, "Output": 2045}</last-modified-by-usage>
       <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <last-update-regen-times valType="String">{"Preferences": 0, "ToolbarExp": 0, "FileTypesContainer": 0, "FileContainer": 0, "Messages": 0, "Scopes": 0, "Parameters": 0, "Schematic": 0, "ReportDataContainer": 0, "Graphics": 0, "Units": 0, "HpsContainer": 0, "PyAddinManager": 0, "Geometry": 2006, "Model": 2043, "Setup": 2046, "Solution": 0, "Results": 0}</last-update-regen-times>
       <unique-system-dir valType="String">AQW</unique-system-dir>
-      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <contains-significant-data valType="Boolean">true</contains-significant-data>
       <Object Name="/Model/AqwaModel:ModelDataObject" Version="1.0">
         <class-type valType="String">AqwaModel</class-type>
         <object-name valType="String">ModelDataObject</object-name>
-        <member-data valType="String">{"DisplayText": "ModelDataObject", "Caption": "Model", "coordinate": "A3", "GeometrySelected": True, "GeometryAttached": False, "ModelHash": "da33bb46-683d-4060-a376-73989d673eeb", "StableHash": "c4c4de60Model", "SystemName": "Hydrodynamic Diffraction", "GeomUpdate": 2004, "GeomUsedUpdate": 0, "ProjectName": "Hydrodynamic Diffraction", "AQDBDatabaseFilesWritten": False, "DuplicateFiles": "", "LeaveHashes": False, "RemoveList": [], "LivestateProcessedRemoveList": [], "PhysicsType": "Modal", "AnalysisType": "Hydrodynamic Diffraction", "SolverType": "Aqwa", "ImportFile": False, "ModelDesignPoint": 0}</member-data>
+        <member-data valType="String">{"DisplayText": "ModelDataObject", "Caption": "Model", "coordinate": "A3", "GeometrySelected": True, "GeometryAttached": True, "ModelHash": "da33bb46-683d-4060-a376-73989d673eeb", "StableHash": "c4c4de60Model", "SystemName": "Hydrodynamic Diffraction", "GeomUpdate": 2004, "GeomUsedUpdate": 0, "ProjectName": "Hydrodynamic Diffraction", "AQDBDatabaseFilesWritten": True, "DuplicateFiles": "", "LeaveHashes": False, "RemoveList": [], "LivestateProcessedRemoveList": [], "PhysicsType": "Modal", "AnalysisType": "Hydrodynamic Diffraction", "SolverType": "Aqwa", "ImportFile": False, "ModelDesignPoint": 0}</member-data>
         <custom-data>
-          <Directory valType="String"></Directory>
-          <FileReference valType="String">null</FileReference>
-          <FileReferenceMesh valType="String">null</FileReferenceMesh>
-          <CellState valType="String">7</CellState>
-          <RefreshChanges valType="String">1</RefreshChanges>
+          <Directory valType="String">E:\Users\Shakti\Desktop\Ansys\OSWEC\OSWEC_files\dp0\AQW\AQW</Directory>
+          <FileReference valType="String">f7f0214b-70fe-4936-9b75-e2dbbcd3199a</FileReference>
+          <FileReferenceMesh valType="String">aafab059-3619-48ae-9fbf-251b18e492f3</FileReferenceMesh>
+          <CellState valType="String">0</CellState>
+          <RefreshChanges valType="String">0</RefreshChanges>
           <ParameterValueModified valType="String">False</ParameterValueModified>
           <value-keys valType="String">{"Directory": System.String, "FileReference": System.String, "FileReferenceMesh": System.String, "CellState": System.Int32, "RefreshChanges": System.Int32, "ParameterValueModified": System.Boolean}</value-keys>
         </custom-data>
@@ -87,18 +88,19 @@
       <container-type valType="String">Ansys.AQWA.CoreAddin:AqwaSetup</container-type>
       <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
       <deleted-sources valType="String">[]</deleted-sources>
-      <last-updated valType="Int64">0</last-updated>
+      <last-updated valType="Int64">2048</last-updated>
       <last-modified-by-usage valType="String">{"Extrinsic": 1924, "Input": 1924, "Output": 1924}</last-modified-by-usage>
       <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <last-update-regen-times valType="String">{"Preferences": 0, "ToolbarExp": 0, "FileTypesContainer": 0, "FileContainer": 0, "Messages": 0, "Scopes": 0, "Parameters": 0, "Schematic": 0, "ReportDataContainer": 0, "Graphics": 0, "Units": 0, "HpsContainer": 0, "PyAddinManager": 0, "Geometry": 2006, "Model": 2047, "Setup": 2046, "Solution": 0, "Results": 0}</last-update-regen-times>
       <unique-system-dir valType="String">AQW</unique-system-dir>
-      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <contains-significant-data valType="Boolean">true</contains-significant-data>
       <Object Name="/Setup/AqwaSetup:SetupDataObject" Version="1.0">
         <class-type valType="String">AqwaSetup</class-type>
         <object-name valType="String">SetupDataObject</object-name>
         <member-data valType="String">{"DisplayText": "SetupDataObject", "Caption": "Setup", "coordinate": "A4", "ResultType": "Hydrodynamic Diffraction", "FileReference": None, "StableHash": "872af450Setup", "StaticOnly": False, "CopiedFromHash": "??", "SourceHash": "", "PhysicsType": "Modal", "AnalysisType": "Hydrodynamic Diffraction", "SolverType": "Aqwa"}</member-data>
         <custom-data>
-          <OldStableHash valType="String"></OldStableHash>
-          <CellState valType="String">7</CellState>
+          <OldStableHash valType="String">872af450Setup</OldStableHash>
+          <CellState valType="String">0</CellState>
           <ParameterValueModified valType="String">False</ParameterValueModified>
           <value-keys valType="String">{"OldStableHash": System.String, "CellState": System.Int32, "ParameterValueModified": System.Boolean}</value-keys>
         </custom-data>
@@ -109,17 +111,18 @@
       <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
       <deleted-sources valType="String">[]</deleted-sources>
       <last-updated valType="Int64">0</last-updated>
-      <last-modified-by-usage valType="String">{"Extrinsic": 1939, "Input": 1937, "Output": 1934}</last-modified-by-usage>
-      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <last-modified-by-usage valType="String">{"Extrinsic": 2064, "Input": 2064, "Output": 2064}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{"AqwaSolution": 2018}</outputs-generated-by-type>
+      <last-update-regen-times valType="String">{"Preferences": 0, "ToolbarExp": 0, "FileTypesContainer": 0, "FileContainer": 0, "Messages": 0, "Scopes": 0, "Parameters": 0, "Schematic": 0, "ReportDataContainer": 0, "Graphics": 0, "Units": 0, "HpsContainer": 0, "PyAddinManager": 0, "Geometry": 2006, "Model": 2047, "Setup": 2048, "Solution": 0, "Results": 0}</last-update-regen-times>
       <unique-system-dir valType="String">AQW</unique-system-dir>
-      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <contains-significant-data valType="Boolean">true</contains-significant-data>
       <Object Name="/Solution/AqwaSolution:SolutionDataObject" Version="1.0">
         <class-type valType="String">AqwaSolution</class-type>
         <object-name valType="String">SolutionDataObject</object-name>
         <member-data valType="String">{"DisplayText": "SolutionDataObject", "Caption": "Analysis", "coordinate": "A5", "FileReference": None, "StableHash": "dddc3d77Solution", "PhysicsType": "Modal", "AnalysisType": "Hydrodynamic Diffraction", "SolverType": "Aqwa", "DownstreamConnectionKeys": []}</member-data>
         <custom-data>
-          <OldStableHash valType="String"></OldStableHash>
-          <CellState valType="String">7</CellState>
+          <OldStableHash valType="String">dddc3d77Solution</OldStableHash>
+          <CellState valType="String">4</CellState>
           <value-keys valType="String">{"OldStableHash": System.String, "CellState": System.Int32}</value-keys>
         </custom-data>
       </Object>
@@ -149,16 +152,17 @@
       <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
       <deleted-sources valType="String">[]</deleted-sources>
       <last-updated valType="Int64">0</last-updated>
-      <last-modified-by-usage valType="String">{"Extrinsic": 1949, "Input": 1949, "Output": 1949}</last-modified-by-usage>
+      <last-modified-by-usage valType="String">{"Extrinsic": 2065, "Input": 2065, "Output": 2065}</last-modified-by-usage>
       <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <last-update-regen-times valType="String">{"Preferences": 0, "ToolbarExp": 0, "FileTypesContainer": 0, "FileContainer": 0, "Messages": 0, "Scopes": 0, "Parameters": 0, "Schematic": 0, "ReportDataContainer": 0, "Graphics": 0, "Units": 0, "HpsContainer": 0, "PyAddinManager": 0, "Geometry": 2006, "Model": 2047, "Setup": 2048, "Solution": 0, "Results": 0}</last-update-regen-times>
       <unique-system-dir valType="String">AQW</unique-system-dir>
-      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <contains-significant-data valType="Boolean">true</contains-significant-data>
       <Object Name="/Results/AqwaResults:ResultsDataObject" Version="1.0">
         <class-type valType="String">AqwaResults</class-type>
         <object-name valType="String">ResultsDataObject</object-name>
         <member-data valType="String">{"DisplayText": "ResultsDataObject", "Caption": "Results", "FileReference": None, "StableHash": "38172dc3Results", "PhysicsType": "Modal", "AnalysisType": "Hydrodynamic Diffraction", "SolverType": "Aqwa"}</member-data>
         <custom-data>
-          <CellState valType="String">7</CellState>
+          <CellState valType="String">4</CellState>
           <ParameterValueModified valType="String">False</ParameterValueModified>
           <value-keys valType="String">{"CellState": System.Int32, "ParameterValueModified": System.Boolean}</value-keys>
         </custom-data>
